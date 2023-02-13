@@ -10,4 +10,3 @@ roleRef:
   apiGroup: rbac.authorization.k8s.io
   name: cluster-administrator
   kind: ClusterRole
- 
