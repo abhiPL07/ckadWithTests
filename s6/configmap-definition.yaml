@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-configuration
+data:
+  # add ‘key: value’ configurations for keep-alive, ssl-protocols, etc
+  keep-alive: "0"
